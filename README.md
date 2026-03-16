@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # psmodsnamoro
 
 
@@ -17,3 +18,6 @@ obs, para copiar o caminho dos arquivos e so aperta a tecla shift teclado e botÃ
 
 ![image](https://github.com/alanxdpro/psmodsnamoro/assets/62288838/4a498db0-c82d-4fb5-aadb-385cb899903d)
 
+
+# Peppa_Pig
+>>>>>>> 70f3ae85233c915f1d0ab827eed21e0ac743cd9f
